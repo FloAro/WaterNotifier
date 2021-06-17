@@ -1,0 +1,1 @@
+G:\Python\python.exe G:\PythonProject\notifier_script.py %*
